@@ -1,4 +1,4 @@
-Hey there!👋 I'm [Sajidh](https://iamsajidh.web.app/), a dedicated self-taught full-stack engineer and freelance software developer hailing from Sri Lanka. My love for software development stems from my knack for envisioning ideas and bringing them to life through polished interfaces. Crafting seamless experiences, robust architectures, and maintaining high code standards are my priorities in everything I create.
+Hey there!👋 I'm [Sajidh](https://iamsajidh.web.app/), a dedicated self-taught full-stack engineer and freelance software developer. My love for software development stems from my knack for envisioning ideas and bringing them to life through polished interfaces. Crafting seamless experiences, robust architectures, and maintaining high code standards are my priorities in everything I create.
 
 Moreover, I'm deeply involved in the open-source realm, both as an enthusiast and a maintainer. The open-source community has been my invaluable source of learning, and I'm passionate about fostering collaboration and knowledge exchange within it.
 
